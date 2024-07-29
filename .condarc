@@ -1,0 +1,2 @@
+channel_priority: strict
+env_prompt: ({name})
